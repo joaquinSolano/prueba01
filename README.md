@@ -1,3 +1,7 @@
-# prueba01
-hola prueba 01 para las pruebas git
-d dadad 
+Proyecto:Relax up
+Integrantes:
+-Joaquin Solano
+-Jorge Casof
+
+
+Proyecto de la universidad peruana de ciencias aplicadas
